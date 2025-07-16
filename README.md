@@ -2,7 +2,7 @@
 
 **FOODIE** is an innovative and interactive recipe discovery platform that helps users cook delicious meals with ease. Users simply enter ingredients they have, and the platform recommends curated recipes, complete with video tutorials and personalized suggestions based on dietary preferences.
 
-
+---
 
 ## 🧾 Introduction
 
@@ -15,7 +15,7 @@ Each recipe includes:
 
 This project supports sustainable cooking, helps reduce food waste, and inspires users of all skill levels to explore diverse culinary options using readily available ingredients.
 
-
+---
 
 ## 🔍 Features
 
@@ -26,7 +26,7 @@ This project supports sustainable cooking, helps reduce food waste, and inspires
 - 📱 Responsive UI for mobile and desktop  
 - 🔄 Dynamic data rendering using API integration  
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@ This project supports sustainable cooking, helps reduce food waste, and inspires
 | **JavaScript** | Logic, interactivity, API integration |
 | **REST APIs**  | Fetching recipe data and video links |
 
-
+---
 
 ## 📸 Screenshots
 
